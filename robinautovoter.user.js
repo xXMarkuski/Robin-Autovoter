@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Robin Autovoter
 // @namespace    http://jerl.im
-// @version      1.9-nospam
+// @version      1.91-nospam
 // @description  Autovotes via text on /r/robin
 // @author       /u/keythkatz and /u/xxmarkuski
 // @match        https://www.reddit.com/robin*
